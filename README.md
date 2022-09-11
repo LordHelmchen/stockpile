@@ -3,7 +3,7 @@ ComputerCraft program to auto-stock craftable items in an AppliedEnergistics net
 
 ## Setup
 
-#### Connect an ME Interface to the back of a computer
+#### Step 1: Connect an ME Interface to the back of a computer
 
 * Make sure it's facing **the back of the computer**!  It can't be placed on any other side.
 * Make sure it's a cubic interface (don't use the panel version)
@@ -14,12 +14,12 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/589893/42127313-eaf28c12-7c4a-11e8-8d0f-566ba5427dfe.png)
 
-#### Install the program
+#### Step 2: Install the program!
 
-This installer should download everything you need:
+This installer will download everything you need:
 
 ```
-pastebin run KghxhDha
+pastebin run uiLyaRFz
 ```
 
 When it's running, it should look something like this:
@@ -27,5 +27,8 @@ When it's running, it should look something like this:
 ![image](https://user-images.githubusercontent.com/589893/42127373-62e1e96a-7c4c-11e8-9037-7a2f618d5659.png)
 
 ## Thanks
+
+
+Original program by sidoh [@sidoh](https://github.com/sidoh)
 
 Screenshots courtesy [@Letouane](https://github.com/Letouane)
